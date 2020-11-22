@@ -1,5 +1,3 @@
-![GitHub](https://img.shields.io/github/license/ksator/ceos_lab_demo)    
-
 3 ceos-lab containers connected in a triangle topology configured with these [EBGP configuration files](startup-config/ebgp).  
 
 Download a cEOS image (cEOS-lab-4.23.3M.tar.xz) from www.arista.com  
